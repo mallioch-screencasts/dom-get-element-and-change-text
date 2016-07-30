@@ -1,0 +1,18 @@
+
+Goals
+* For my class
+* Informal
+* DOM - how a web page and JS interact
+Introduce the tools
+* Atom
+* Chrome and dev tools
+Code
+* HTML page + JS
+* To interact with the page, you need to go grab that part of the page
+* The metaphor: remote control
+* Go get the element
+* Console log
+* Change the element
+* View source vs live DOM
+Make a mistake
+* Misspell the selector
